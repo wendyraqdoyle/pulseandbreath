@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pulse & Breath Wellness</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        header {
+            background-color: #2c3e50;
+            color: #fff;
+            padding: 1.5rem 0;
+            text-align: center;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #34495e;
+            padding: 0.75rem;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 1.25rem;
+            font-weight: bold;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        main {
+            padding: 2rem;
+            text-align: center;
+        }
+        footer {
+            background-color: #2c3e50;
+            color: #fff;
+            text-align: center;
+            padding: 1rem 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        .mission {
+            max-width: 700px;
+            margin: auto;
+            font-size: 1.1rem;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Pulse & Breath Wellness</h1>
+        <p>Helping You Stay Out of the Hospital—One Breath at a Time</p>
+    </header>
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#about">About</a>
+        <a href="#programs">Programs</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <main>
+        <section id="home">
+            <h2>Welcome</h2>
+            <p class="mission">
+                At Pulse & Breath Wellness, we provide personalized, science-informed coaching to empower people living with heart and lung conditions. 
+                Led by a seasoned clinician with over 20 years of experience as a Respiratory Therapist, Interventional Cardiology Physician Assistant, 
+                and Professor of Medicine, we offer practical strategies to help you take control of your health—and avoid unnecessary hospital visits.
+            </p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 Pulse & Breath Wellness. All rights reserved.</p>
+    </footer>
+</body>
+</html>
